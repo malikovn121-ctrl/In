@@ -1,0 +1,8 @@
+{
+  "name": "SpinDrop Platform",
+  "description": "Интерактивная платформа со стильным карусельным барабаном, скругленными плашками и динамической раскруткой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
